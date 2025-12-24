@@ -34,7 +34,7 @@ export default function Home() {
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center font-bold text-white shadow-[0_0_15px_rgba(37,99,235,0.4)]">
               3Q
             </div>
-            <span className="text-2xl font-black tracking-tighter bg-linear-to-r from-white to-slate-400 bg-clip-text text-transparent">
+            <span className="text-2xl font-black bg-linear-to-r from-white to-slate-400 bg-clip-text text-transparent">
               NEWS
             </span>
           </div>
