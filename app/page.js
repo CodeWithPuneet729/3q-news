@@ -141,7 +141,7 @@ export default function Home() {
       </main>
 
       <footer className='bg-slate-900 flex flex-col justify-center items-center gap-2 text-center py-6'>
-        <p className="text-slate-400 text-sm">© 2023 3Q News. All rights reserved.</p>
+        <p className="text-slate-400 text-sm">© 2025 3Q News. All rights reserved.</p>
         <p className="text-slate-400 text-sm">Created with ❤️ by CodeWithPuneet</p>
       </footer>
     </>);
